@@ -48,9 +48,6 @@ class Clock(QWidget):
 
 
 
-
-
-
 def main():
 
     app= QApplication(sys.argv)
